@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="8" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="69492" started-at="2021-04-14T02:22:03 IST" finished-at="2021-04-14T02:23:13 IST">
+    <groups>
+      <group name="SmokeTest">
+        <method signature="HomePageTest.contactUsPage_01()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="contactUsPage_01" class="testCases.HomePageTest"/>
+      </group> <!-- SmokeTest -->
+      <group name="HomePage">
+        <method signature="HomePageTest.contactUsPage_01()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="contactUsPage_01" class="testCases.HomePageTest"/>
+        <method signature="HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="signInPage_01" class="testCases.HomePageTest"/>
+      </group> <!-- HomePage -->
+      <group name="RegressionTest">
+        <method signature="HomePageTest.contactUsPage_01()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="contactUsPage_01" class="testCases.HomePageTest"/>
+        <method signature="HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="signInPage_01" class="testCases.HomePageTest"/>
+      </group> <!-- RegressionTest -->
+    </groups>
+    <test name="Command line test" duration-ms="69492" started-at="2021-04-14T02:22:03 IST" finished-at="2021-04-14T02:23:13 IST">
+      <class name="base.TestBase">
+        <test-method status="PASS" signature="testbefore()[pri:0, instance:base.TestBase@335eadca]" name="testbefore" is-config="true" duration-ms="180" started-at="2021-04-14T02:22:03 IST" finished-at="2021-04-14T02:22:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbefore -->
+        <test-method status="PASS" signature="testafter()[pri:0, instance:base.TestBase@335eadca]" name="testafter" is-config="true" duration-ms="48" started-at="2021-04-14T02:23:13 IST" finished-at="2021-04-14T02:23:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testafter -->
+      </class> <!-- base.TestBase -->
+      <class name="testCases.LogTest">
+        <test-method status="PASS" signature="Login_01()[pri:0, instance:testCases.LogTest@24aed80c]" name="Login_01" duration-ms="3" started-at="2021-04-14T02:23:13 IST" finished-at="2021-04-14T02:23:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_01 -->
+        <test-method status="PASS" signature="Login_02()[pri:0, instance:testCases.LogTest@24aed80c]" name="Login_02" duration-ms="1" started-at="2021-04-14T02:23:13 IST" finished-at="2021-04-14T02:23:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_02 -->
+      </class> <!-- testCases.LogTest -->
+      <class name="testCases.HomePageTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="beforeMethod" is-config="true" duration-ms="13359" started-at="2021-04-14T02:22:04 IST" finished-at="2021-04-14T02:22:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="contactUsPage_01()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="contactUsPage_01" duration-ms="5134" started-at="2021-04-14T02:22:17 IST" finished-at="2021-04-14T02:22:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUsPage_01 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="closeBrowser" is-config="true" duration-ms="1108" started-at="2021-04-14T02:22:22 IST" finished-at="2021-04-14T02:22:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="beforeMethod" is-config="true" duration-ms="9463" started-at="2021-04-14T02:22:23 IST" finished-at="2021-04-14T02:22:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signInPage_01()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="signInPage_01" duration-ms="6822" started-at="2021-04-14T02:22:33 IST" finished-at="2021-04-14T02:22:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInPage_01 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="closeBrowser" is-config="true" duration-ms="825" started-at="2021-04-14T02:22:39 IST" finished-at="2021-04-14T02:22:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="beforeMethod" is-config="true" duration-ms="9391" started-at="2021-04-14T02:22:40 IST" finished-at="2021-04-14T02:22:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signInPage_01()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="signInPage_01" duration-ms="6599" started-at="2021-04-14T02:22:50 IST" finished-at="2021-04-14T02:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInPage_01 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="closeBrowser" is-config="true" duration-ms="780" started-at="2021-04-14T02:22:56 IST" finished-at="2021-04-14T02:22:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="beforeMethod" is-config="true" duration-ms="9449" started-at="2021-04-14T02:22:57 IST" finished-at="2021-04-14T02:23:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signInPage_01()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="signInPage_01" duration-ms="5498" started-at="2021-04-14T02:23:06 IST" finished-at="2021-04-14T02:23:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInPage_01 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.HomePageTest@65e2dbf3]" name="closeBrowser" is-config="true" duration-ms="774" started-at="2021-04-14T02:23:12 IST" finished-at="2021-04-14T02:23:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCases.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

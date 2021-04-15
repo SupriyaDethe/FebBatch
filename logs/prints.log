@@ -1,0 +1,1113 @@
+00:55:14.903 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+00:55:14.964 [main] INFO  testCases.LogTest - Row count of sheet is 3
+00:55:14.964 [main] INFO  testCases.LogTest - Username is dethesupriyaa@gmail.com
+00:55:14.964 [main] INFO  testCases.LogTest - Password is Sup123
+00:55:34.067 [main] INFO  testCases.LogTest - Logged In successfully 
+00:55:44.964 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+00:55:44.971 [main] INFO  testCases.LogTest - Row count of sheet is 3
+00:55:44.971 [main] INFO  testCases.LogTest - Username is supriya040795@gmail.com
+00:55:45.000 [main] INFO  testCases.LogTest - Password is 123456
+00:56:05.652 [main] ERROR testCases.LogTest - Logged In Failed
+01:16:53.736 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+01:17:07.704 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_01
+01:17:07.704 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+01:17:07.751 [main] INFO  testCases.LogTest - Row count of sheet is 3
+01:17:07.751 [main] INFO  testCases.LogTest - Username is dethesupriyaa@gmail.com
+01:17:07.752 [main] INFO  testCases.LogTest - Password is Sup123
+01:17:29.162 [main] INFO  testCases.LogTest - Logged In successfully 
+01:17:29.182 [main] INFO  testCases.LogTest - Test Successfully Finished LogInTestCase_01
+01:17:43.826 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_02
+01:17:43.826 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+01:17:43.841 [main] INFO  testCases.LogTest - Row count of sheet is 3
+01:17:43.841 [main] INFO  testCases.LogTest - Username is supriya040795@gmail.com
+01:17:43.841 [main] INFO  testCases.LogTest - Password is 123456
+01:18:07.948 [main] ERROR testCases.LogTest - Logged In Failed
+01:18:07.968 [main] INFO  testCases.LogTest - Test Failed LogInTestCase_02
+01:18:08.574 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_01 status=SUCCESS method=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@4febb875] output={null}]=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@4febb875]}]
+01:18:08.575 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_02 status=FAILURE method=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@4febb875] output={null}]=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@4febb875]}]
+01:34:13.596 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+01:34:17.983 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+01:34:26.055 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+01:34:26.131 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_01
+01:34:26.132 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+01:34:26.154 [main] INFO  testCases.LogTest - Row count of sheet is 3
+01:34:26.155 [main] INFO  testCases.LogTest - Username is dethesupriyaa@gmail.com
+01:34:26.159 [main] INFO  testCases.LogTest - Password is Sup123
+01:34:26.160 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+01:34:26.225 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+01:34:26.243 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (07c5d6773bfa6db2980404ee1ff5a82d)] -> xpath: (//a[contains(text(),'Sign in')])]
+01:34:30.045 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (07c5d6773bfa6db2980404ee1ff5a82d)] -> xpath: (//a[contains(text(),'Sign in')])]
+01:34:30.051 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+01:34:30.118 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+01:34:30.506 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+01:34:30.571 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+01:34:35.812 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+01:34:35.883 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+01:34:35.884 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (07c5d6773bfa6db2980404ee1ff5a82d)] -> xpath: //button[@id='SubmitLogin']]
+01:34:38.629 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (07c5d6773bfa6db2980404ee1ff5a82d)] -> xpath: //button[@id='SubmitLogin']]
+01:34:43.630 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+01:34:43.689 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[text()='My account']
+01:34:43.777 [main] INFO  testCases.LogTest - Logged In successfully 
+01:34:43.792 [main] INFO  testCases.LogTest - Test Successfully Finished LogInTestCase_01
+01:34:46.934 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+01:34:56.882 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+01:34:56.890 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_02
+01:34:56.895 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+01:34:56.902 [main] INFO  testCases.LogTest - Row count of sheet is 3
+01:34:56.902 [main] INFO  testCases.LogTest - Username is supriya040795@gmail.com
+01:34:56.902 [main] INFO  testCases.LogTest - Password is 123456
+01:34:56.903 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+01:34:57.287 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+01:34:57.300 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3258690dd27d5717f5d4e59e6f86ea71)] -> xpath: (//a[contains(text(),'Sign in')])]
+01:34:59.814 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (3258690dd27d5717f5d4e59e6f86ea71)] -> xpath: (//a[contains(text(),'Sign in')])]
+01:34:59.815 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+01:35:01.074 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+01:35:01.291 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+01:35:01.327 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+01:35:06.478 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+01:35:06.520 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+01:35:06.521 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3258690dd27d5717f5d4e59e6f86ea71)] -> xpath: //button[@id='SubmitLogin']]
+01:35:08.450 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (3258690dd27d5717f5d4e59e6f86ea71)] -> xpath: //button[@id='SubmitLogin']]
+01:35:13.453 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+01:35:16.545 [main] INFO  testCases.LogTest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='My account']"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '192.168.43.145', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54259}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3258690dd27d5717f5d4e59e6f86ea71
+*** Element info: {Using=xpath, value=//h1[text()='My account']}
+01:35:16.546 [main] ERROR testCases.LogTest - Logged In Failed
+01:35:16.565 [main] ERROR testCases.LogTest - Test Failed LogInTestCase_02
+01:35:16.825 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_01 status=SUCCESS method=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@4febb875] output={null}]=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@4febb875]}]
+01:35:16.825 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_02 status=FAILURE method=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@4febb875] output={null}]=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@4febb875]}]
+02:30:44.294 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+02:30:48.989 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:30:58.177 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:30:58.277 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_01
+02:30:58.295 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+02:30:58.325 [main] INFO  testCases.LogTest - Row count of sheet is 3
+02:30:58.326 [main] INFO  testCases.LogTest - Username is dethesupriyaa@gmail.com
+02:30:58.340 [main] INFO  testCases.LogTest - Password is Sup123
+02:30:58.340 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:30:58.430 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:30:58.449 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5d85e970ced3d2f3205a0465a8684f1b)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:31:01.195 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (5d85e970ced3d2f3205a0465a8684f1b)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:31:01.202 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+02:31:02.478 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+02:31:02.880 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+02:31:02.932 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+02:31:08.141 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+02:31:08.201 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+02:31:08.202 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5d85e970ced3d2f3205a0465a8684f1b)] -> xpath: //button[@id='SubmitLogin']]
+02:31:12.451 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (5d85e970ced3d2f3205a0465a8684f1b)] -> xpath: //button[@id='SubmitLogin']]
+02:31:17.454 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+02:31:17.544 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[text()='My account']
+02:31:17.661 [main] INFO  testCases.LogTest - Logged In successfully 
+02:31:17.685 [main] INFO  testCases.LogTest - Test Successfully Finished LogInTestCase_01
+02:31:22.470 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:31:32.551 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:31:32.568 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_02
+02:31:32.580 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+02:31:32.586 [main] INFO  testCases.LogTest - Row count of sheet is 3
+02:31:32.586 [main] INFO  testCases.LogTest - Username is supriya040795@gmail.com
+02:31:32.587 [main] INFO  testCases.LogTest - Password is 123456
+02:31:32.587 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:31:32.677 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:31:32.699 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (335a13883b764a1074ce80faedad03b2)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:31:35.263 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (335a13883b764a1074ce80faedad03b2)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:31:35.265 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+02:31:35.344 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+02:31:35.587 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+02:31:35.639 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+02:31:40.806 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+02:31:40.858 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+02:31:40.859 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (335a13883b764a1074ce80faedad03b2)] -> xpath: //button[@id='SubmitLogin']]
+02:31:43.284 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (335a13883b764a1074ce80faedad03b2)] -> xpath: //button[@id='SubmitLogin']]
+02:31:48.285 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+02:31:51.419 [main] INFO  testCases.LogTest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='My account']"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '192.168.43.145', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57096}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 335a13883b764a1074ce80faedad03b2
+*** Element info: {Using=xpath, value=//h1[text()='My account']}
+02:31:51.422 [main] ERROR testCases.LogTest - Logged In Failed 
+02:31:51.444 [main] ERROR testCases.LogTest - Test Failed LogInTestCase_02
+02:31:53.282 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_01 status=SUCCESS method=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@5b444398] output={null}]=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@5b444398]}]
+02:31:53.282 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_02 status=FAILURE method=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@5b444398] output={null}]=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@5b444398]}]
+02:36:28.839 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+02:36:33.270 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:36:40.958 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:36:41.055 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_01
+02:36:41.069 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+02:36:41.104 [main] INFO  testCases.LogTest - Row count of sheet is 3
+02:36:41.105 [main] INFO  testCases.LogTest - Username is dethesupriyaa@gmail.com
+02:36:41.111 [main] INFO  testCases.LogTest - Password is Sup123
+02:36:41.112 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:36:41.289 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:36:41.297 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (23a7f87f60c72923200c54d7c7f1df8a)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:36:44.043 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (23a7f87f60c72923200c54d7c7f1df8a)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:36:44.051 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+02:36:44.154 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+02:36:44.514 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+02:36:44.570 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+02:36:49.841 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+02:36:49.901 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+02:36:49.901 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (23a7f87f60c72923200c54d7c7f1df8a)] -> xpath: //button[@id='SubmitLogin']]
+02:36:53.340 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (23a7f87f60c72923200c54d7c7f1df8a)] -> xpath: //button[@id='SubmitLogin']]
+02:36:58.342 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+02:36:58.407 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[text()='My account']
+02:36:58.583 [main] INFO  testCases.LogTest - Logged In successfully 
+02:36:58.595 [main] INFO  testCases.LogTest - Test Successfully Finished LogInTestCase_01
+02:37:02.553 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:37:10.438 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:37:10.448 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_02
+02:37:10.455 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+02:37:10.459 [main] INFO  testCases.LogTest - Row count of sheet is 3
+02:37:10.459 [main] INFO  testCases.LogTest - Username is supriya040795@gmail.com
+02:37:10.460 [main] INFO  testCases.LogTest - Password is 123456
+02:37:10.460 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:37:10.527 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:37:10.533 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (df596c4909ee6ce7db5212a89e52667b)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:37:13.367 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (df596c4909ee6ce7db5212a89e52667b)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:37:13.368 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+02:37:13.459 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+02:37:13.759 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+02:37:13.807 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+02:37:19.081 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+02:37:19.133 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+02:37:19.134 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (df596c4909ee6ce7db5212a89e52667b)] -> xpath: //button[@id='SubmitLogin']]
+02:37:22.005 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (df596c4909ee6ce7db5212a89e52667b)] -> xpath: //button[@id='SubmitLogin']]
+02:37:27.006 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+02:37:30.047 [main] INFO  testCases.LogTest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='My account']"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '192.168.43.145', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57443}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: df596c4909ee6ce7db5212a89e52667b
+*** Element info: {Using=xpath, value=//h1[text()='My account']}
+02:37:30.048 [main] ERROR testCases.LogTest - Logged In Failed 
+02:37:30.061 [main] ERROR testCases.LogTest - Test Failed LogInTestCase_02
+02:37:31.488 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_01 status=SUCCESS method=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@5b444398] output={null}]=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@5b444398]}]
+02:37:31.489 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_02 status=FAILURE method=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@5b444398] output={null}]=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@5b444398]}]
+00:04:52.861 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+00:04:58.148 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:05:08.849 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:05:08.940 [main] INFO  testCases.LogTest - New Test Started contactUsPage_01
+00:05:08.941 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+00:05:09.053 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+00:05:09.090 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (59f3f41e3e154ce8596b4a85b3b37bdc)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+00:05:13.707 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (59f3f41e3e154ce8596b4a85b3b37bdc)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+00:05:16.708 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+00:05:16.776 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+00:05:16.867 [main] INFO  testCases.LogTest - Test Successfully Finished contactUsPage_01
+00:05:21.516 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:05:31.529 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:05:31.547 [main] INFO  testCases.LogTest - New Test Started CreateAccountPageTest_01
+00:05:31.548 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:05:31.695 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:05:31.696 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (9d03bf49aadd47604136abe4549cae22)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:05:34.876 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (9d03bf49aadd47604136abe4549cae22)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:05:34.877 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@name='email_create']
+00:05:35.004 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@name='email_create']
+00:05:35.378 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitCreate']
+00:05:35.436 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitCreate']
+00:05:35.436 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (9d03bf49aadd47604136abe4549cae22)] -> xpath: //button[@id='SubmitCreate']]
+00:05:35.634 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (9d03bf49aadd47604136abe4549cae22)] -> xpath: //button[@id='SubmitCreate']]
+00:05:35.645 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='id_gender2']
+00:05:38.069 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='id_gender2']
+00:05:38.069 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (9d03bf49aadd47604136abe4549cae22)] -> xpath: //input[@id='id_gender2']]
+00:05:38.390 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (9d03bf49aadd47604136abe4549cae22)] -> xpath: //input[@id='id_gender2']]
+00:05:38.396 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='customer_firstname']
+00:05:38.515 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='customer_firstname']
+00:05:39.007 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='customer_lastname']
+00:05:39.054 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='customer_lastname']
+00:05:39.247 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+00:05:39.300 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+00:05:39.473 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='days']
+00:05:39.519 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='days']
+00:05:39.728 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='months']
+00:05:39.802 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='months']
+00:05:39.972 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='years']
+00:05:40.006 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='years']
+00:05:40.166 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='newsletter']
+00:05:40.204 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='newsletter']
+00:05:40.207 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (9d03bf49aadd47604136abe4549cae22)] -> xpath: //input[@id='newsletter']]
+00:05:40.338 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (9d03bf49aadd47604136abe4549cae22)] -> xpath: //input[@id='newsletter']]
+00:05:40.338 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='firstname']
+00:05:40.370 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='firstname']
+00:05:40.589 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='lastname']
+00:05:40.623 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='lastname']
+00:05:40.768 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='company']
+00:05:40.814 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='company']
+00:05:40.984 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='address1']
+00:05:41.026 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='address1']
+00:05:41.229 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='address2']
+00:05:41.270 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='address2']
+00:05:41.453 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='city']
+00:05:41.495 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='city']
+00:05:41.689 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='id_state']
+00:05:41.736 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='id_state']
+00:05:41.897 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='postcode']
+00:05:41.935 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='postcode']
+00:05:42.131 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='id_country']
+00:05:42.171 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='id_country']
+00:05:42.171 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (9d03bf49aadd47604136abe4549cae22)] -> xpath: //select[@id='id_country']]
+00:05:47.417 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (9d03bf49aadd47604136abe4549cae22)] -> xpath: //select[@id='id_country']]
+00:05:47.418 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='phone_mobile']
+00:05:47.577 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='phone_mobile']
+00:05:47.851 [main] INFO  testCases.LogTest - Test Successfully Finished CreateAccountPageTest_01
+00:05:51.304 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:06:02.775 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:06:02.781 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_01
+00:06:02.795 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+00:06:02.817 [main] INFO  testCases.LogTest - Row count of sheet is 3
+00:06:02.817 [main] INFO  testCases.LogTest - Username is dethesupriyaa@gmail.com
+00:06:02.817 [main] INFO  testCases.LogTest - Password is Sup123
+00:06:02.818 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:06:02.944 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:06:02.950 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (30c160508a1d03c3a6cc26569358f4d6)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:06:06.724 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (30c160508a1d03c3a6cc26569358f4d6)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:06:06.725 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+00:06:06.808 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+00:06:07.138 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+00:06:07.191 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+00:06:12.497 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+00:06:12.548 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+00:06:12.548 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (30c160508a1d03c3a6cc26569358f4d6)] -> xpath: //button[@id='SubmitLogin']]
+00:06:15.026 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (30c160508a1d03c3a6cc26569358f4d6)] -> xpath: //button[@id='SubmitLogin']]
+00:06:20.034 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+00:06:20.132 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[text()='My account']
+00:06:20.207 [main] INFO  testCases.LogTest - Logged In successfully 
+00:06:20.220 [main] INFO  testCases.LogTest - Test Successfully Finished LogInTestCase_01
+00:06:22.141 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_01 status=SUCCESS method=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@24b6b8f6] output={null}]=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@24b6b8f6], [TestResult name=contactUsPage_01 status=SUCCESS method=HomePageTest.contactUsPage_01()[pri:0, instance:testCases.HomePageTest@10993713] output={null}]=HomePageTest.contactUsPage_01()[pri:0, instance:testCases.HomePageTest@10993713], [TestResult name=CreateAccountPageTest_01 status=SUCCESS method=CreateAccountTestCases.CreateAccountPageTest_01()[pri:0, instance:testCases.CreateAccountTestCases@58359ebd] output={null}]=CreateAccountTestCases.CreateAccountPageTest_01()[pri:0, instance:testCases.CreateAccountTestCases@58359ebd]}]
+00:06:22.143 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={}]
+00:07:13.458 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+00:07:17.933 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:07:28.603 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:07:28.690 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_01
+00:07:28.704 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+00:07:28.736 [main] INFO  testCases.LogTest - Row count of sheet is 3
+00:07:28.736 [main] INFO  testCases.LogTest - Username is dethesupriyaa@gmail.com
+00:07:28.746 [main] INFO  testCases.LogTest - Password is Sup123
+00:07:28.747 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:07:28.818 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:07:28.832 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5eefcf828ff30b1ec0af63700f4773de)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:07:32.224 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (5eefcf828ff30b1ec0af63700f4773de)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:07:32.229 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+00:07:32.306 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+00:07:32.702 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+00:07:32.776 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+00:07:38.065 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+00:07:38.121 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+00:07:38.122 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5eefcf828ff30b1ec0af63700f4773de)] -> xpath: //button[@id='SubmitLogin']]
+00:07:40.890 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (5eefcf828ff30b1ec0af63700f4773de)] -> xpath: //button[@id='SubmitLogin']]
+00:07:45.896 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+00:07:45.961 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[text()='My account']
+00:07:46.027 [main] INFO  testCases.LogTest - Logged In successfully 
+00:07:46.040 [main] INFO  testCases.LogTest - Test Successfully Finished LogInTestCase_01
+00:07:50.778 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:07:59.032 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:07:59.038 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_02
+00:07:59.043 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+00:07:59.051 [main] INFO  testCases.LogTest - Row count of sheet is 3
+00:07:59.052 [main] INFO  testCases.LogTest - Username is supriya040795@gmail.com
+00:07:59.052 [main] INFO  testCases.LogTest - Password is 123456
+00:07:59.052 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:07:59.145 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:07:59.154 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b534ed0f4948b8aaca8750179c3b48c4)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:08:01.442 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b534ed0f4948b8aaca8750179c3b48c4)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:08:01.443 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+00:08:01.481 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+00:08:01.683 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+00:08:01.724 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+00:08:06.879 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+00:08:06.940 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+00:08:06.941 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b534ed0f4948b8aaca8750179c3b48c4)] -> xpath: //button[@id='SubmitLogin']]
+00:08:09.245 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b534ed0f4948b8aaca8750179c3b48c4)] -> xpath: //button[@id='SubmitLogin']]
+00:08:14.247 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+00:08:17.378 [main] INFO  testCases.LogTest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='My account']"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '192.168.43.145', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55333}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b534ed0f4948b8aaca8750179c3b48c4
+*** Element info: {Using=xpath, value=//h1[text()='My account']}
+00:08:17.392 [main] ERROR testCases.LogTest - Logged In Failed 
+00:08:17.440 [main] ERROR testCases.LogTest - Test Failed LogInTestCase_02
+00:08:19.115 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_01 status=SUCCESS method=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@58359ebd] output={null}]=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@58359ebd]}]
+00:08:19.116 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_02 status=FAILURE method=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@58359ebd] output={null}]=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@58359ebd]}]
+00:14:20.933 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+00:14:25.923 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:14:35.834 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:14:35.932 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_01
+00:14:35.944 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+00:14:35.967 [main] INFO  testCases.LogTest - Row count of sheet is 3
+00:14:35.968 [main] INFO  testCases.LogTest - Username is dethesupriyaa@gmail.com
+00:14:35.974 [main] INFO  testCases.LogTest - Password is Sup123
+00:14:35.975 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:14:36.057 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:14:36.075 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (1cf119adee2dfc1d8396f50b950c0861)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:14:42.400 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (1cf119adee2dfc1d8396f50b950c0861)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:14:42.406 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+00:14:42.508 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+00:14:42.932 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+00:14:42.997 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+00:14:48.269 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+00:14:48.326 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+00:14:48.327 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (1cf119adee2dfc1d8396f50b950c0861)] -> xpath: //button[@id='SubmitLogin']]
+00:14:51.362 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (1cf119adee2dfc1d8396f50b950c0861)] -> xpath: //button[@id='SubmitLogin']]
+00:14:56.363 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+00:14:56.417 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[text()='My account']
+00:14:56.471 [main] INFO  testCases.LogTest - Logged In successfully 
+00:14:56.483 [main] INFO  testCases.LogTest - Test Successfully Finished LogInTestCase_01
+00:15:00.900 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:15:11.818 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:15:11.821 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_02
+00:15:11.825 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+00:15:11.835 [main] INFO  testCases.LogTest - Row count of sheet is 3
+00:15:11.835 [main] INFO  testCases.LogTest - Username is supriya040795@gmail.com
+00:15:11.835 [main] INFO  testCases.LogTest - Password is 123456
+00:15:11.836 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:15:11.887 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:15:11.894 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (1a3de5a29a31b4513a44686c02b82b37)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:15:15.619 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (1a3de5a29a31b4513a44686c02b82b37)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:15:15.620 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+00:15:15.693 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+00:15:16.028 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+00:15:16.084 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+00:15:21.344 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+00:15:21.397 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+00:15:21.398 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (1a3de5a29a31b4513a44686c02b82b37)] -> xpath: //button[@id='SubmitLogin']]
+00:15:25.098 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (1a3de5a29a31b4513a44686c02b82b37)] -> xpath: //button[@id='SubmitLogin']]
+00:15:30.100 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+00:15:33.161 [main] INFO  testCases.LogTest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='My account']"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '192.168.43.145', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55763}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a3de5a29a31b4513a44686c02b82b37
+*** Element info: {Using=xpath, value=//h1[text()='My account']}
+00:15:33.162 [main] ERROR testCases.LogTest - Logged In Failed 
+00:15:33.189 [main] ERROR testCases.LogTest - Test Failed LogInTestCase_02
+00:15:34.706 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_01 status=SUCCESS method=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@58359ebd] output={null}]=SignInWithExcelDataLog.LogInTestCase_01()[pri:0, instance:testCases.SignInWithExcelDataLog@58359ebd]}]
+00:15:34.707 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_02 status=FAILURE method=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@58359ebd] output={null}]=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@58359ebd]}]
+00:19:31.186 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Failed suite [Suite]
+00:19:35.749 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:19:46.914 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:19:47.031 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_02
+00:19:47.049 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+00:19:47.084 [main] INFO  testCases.LogTest - Row count of sheet is 3
+00:19:47.091 [main] INFO  testCases.LogTest - Username is supriya040795@gmail.com
+00:19:47.091 [main] INFO  testCases.LogTest - Password is 123456
+00:19:47.092 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:19:47.198 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:19:47.222 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (6b2beb7a66d34da7ce8c5faa5f0c0a14)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:19:50.305 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (6b2beb7a66d34da7ce8c5faa5f0c0a14)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:19:50.348 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+00:19:50.440 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+00:19:50.738 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+00:19:50.787 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+00:19:55.990 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+00:19:56.077 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+00:19:56.078 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (6b2beb7a66d34da7ce8c5faa5f0c0a14)] -> xpath: //button[@id='SubmitLogin']]
+00:19:58.743 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (6b2beb7a66d34da7ce8c5faa5f0c0a14)] -> xpath: //button[@id='SubmitLogin']]
+00:20:03.745 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+00:20:06.967 [main] INFO  testCases.LogTest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='My account']"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '192.168.43.145', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56033}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b2beb7a66d34da7ce8c5faa5f0c0a14
+*** Element info: {Using=xpath, value=//h1[text()='My account']}
+00:20:06.969 [main] ERROR testCases.LogTest - Logged In Failed 
+00:20:07.084 [main] ERROR testCases.LogTest - Test Failed LogInTestCase_02
+00:20:09.221 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={}]
+00:20:09.222 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_02 status=FAILURE method=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@758c83d8] output={null}]=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@758c83d8]}]
+00:28:26.082 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+00:28:30.620 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:28:39.017 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:28:39.136 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_02
+00:28:39.155 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+00:28:39.196 [main] INFO  testCases.LogTest - Row count of sheet is 3
+00:28:39.197 [main] INFO  testCases.LogTest - Username is supriya040795@gmail.com
+00:28:39.211 [main] INFO  testCases.LogTest - Password is 123456
+00:28:39.211 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:28:39.315 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:28:39.332 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b024f0ab7df71a2d195a3edd25e4d954)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:28:42.056 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b024f0ab7df71a2d195a3edd25e4d954)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:28:42.060 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+00:28:42.112 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+00:28:42.570 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+00:28:42.627 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+00:28:47.831 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+00:28:47.900 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+00:28:47.901 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b024f0ab7df71a2d195a3edd25e4d954)] -> xpath: //button[@id='SubmitLogin']]
+00:28:50.849 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b024f0ab7df71a2d195a3edd25e4d954)] -> xpath: //button[@id='SubmitLogin']]
+00:28:55.852 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+00:28:59.011 [main] INFO  testCases.LogTest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='My account']"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '192.168.43.145', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56378}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b024f0ab7df71a2d195a3edd25e4d954
+*** Element info: {Using=xpath, value=//h1[text()='My account']}
+00:28:59.012 [main] ERROR testCases.LogTest - Logged In Failed 
+00:28:59.080 [main] ERROR testCases.LogTest - Test Failed LogInTestCase_02
+00:29:00.972 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_01
+00:29:00.977 [main] INFO  testCases.LogTest - Test Skipped LogInTestCase_01
+00:29:01.176 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={}]
+00:29:01.177 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_02 status=FAILURE method=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@42f48531] output={null}]=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@42f48531]}]
+00:31:46.824 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+00:31:51.109 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:32:03.788 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:32:03.914 [main] INFO  testCases.LogTest - New Test Started contactUsPage_01
+00:32:03.915 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+00:32:04.094 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+00:32:04.129 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (9e64697803b380e3aeda616293af7d1d)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+00:32:06.225 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (9e64697803b380e3aeda616293af7d1d)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+00:32:09.226 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+00:32:09.343 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+00:32:09.419 [main] INFO  testCases.LogTest - Test Successfully Finished contactUsPage_01
+00:32:13.970 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:32:24.062 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:32:24.084 [main] INFO  testCases.LogTest - New Test Started signInPage_01
+00:32:24.085 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:32:24.185 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:32:24.200 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (652544f5b8e419919daab7c1d326ce03)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:32:27.829 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (652544f5b8e419919daab7c1d326ce03)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:32:30.831 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:32:30.902 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:32:30.982 [main] INFO  testCases.LogTest - Test Successfully Finished signInPage_01
+00:32:34.781 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:32:42.664 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:32:42.671 [main] INFO  testCases.LogTest - New Test Started signInPage_01
+00:32:42.671 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:32:42.800 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:32:42.806 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (681e05b160f736b109fe93730ae7f85c)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:32:46.150 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (681e05b160f736b109fe93730ae7f85c)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:32:49.153 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:32:49.381 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:32:49.492 [main] INFO  testCases.LogTest - Test Successfully Finished signInPage_01
+00:32:53.384 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:33:04.002 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:33:04.016 [main] INFO  testCases.LogTest - New Test Started signInPage_01
+00:33:04.016 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:33:04.088 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:33:04.100 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (43e513dbdb463bc27129083b476d7dfa)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:33:07.388 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (43e513dbdb463bc27129083b476d7dfa)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:33:10.394 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:33:10.451 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:33:10.515 [main] INFO  testCases.LogTest - Test Successfully Finished signInPage_01
+00:33:11.736 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=contactUsPage_01 status=SUCCESS method=HomePageTest.contactUsPage_01()[pri:0, instance:testCases.HomePageTest@2a3c96e3] output={null}]=HomePageTest.contactUsPage_01()[pri:0, instance:testCases.HomePageTest@2a3c96e3], [TestResult name=signInPage_01 status=SUCCESS method=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@2a3c96e3] output={null}]=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@2a3c96e3], [TestResult name=signInPage_01 status=SUCCESS method=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@2a3c96e3] output={null}]=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@2a3c96e3], [TestResult name=signInPage_01 status=SUCCESS method=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@2a3c96e3] output={null}]=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@2a3c96e3]}]
+00:33:11.736 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={}]
+00:38:01.403 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+00:38:01.497 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={}]
+00:38:01.497 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={}]
+00:39:28.747 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+00:39:33.222 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:39:41.319 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:39:41.430 [main] INFO  testCases.LogTest - New Test Started CreateAccountPageTest_01
+00:39:41.431 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:39:41.573 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:39:41.594 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (11a35690b810b1f3b7ffaa9dd2805de7)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:39:44.282 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (11a35690b810b1f3b7ffaa9dd2805de7)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:39:44.282 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@name='email_create']
+00:39:44.400 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@name='email_create']
+00:39:44.784 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitCreate']
+00:39:44.849 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitCreate']
+00:39:44.849 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (11a35690b810b1f3b7ffaa9dd2805de7)] -> xpath: //button[@id='SubmitCreate']]
+00:39:45.069 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (11a35690b810b1f3b7ffaa9dd2805de7)] -> xpath: //button[@id='SubmitCreate']]
+00:39:45.074 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='id_gender2']
+00:39:46.785 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='id_gender2']
+00:39:46.785 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (11a35690b810b1f3b7ffaa9dd2805de7)] -> xpath: //input[@id='id_gender2']]
+00:39:47.384 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (11a35690b810b1f3b7ffaa9dd2805de7)] -> xpath: //input[@id='id_gender2']]
+00:39:47.388 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='customer_firstname']
+00:39:47.445 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='customer_firstname']
+00:39:47.724 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='customer_lastname']
+00:39:47.781 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='customer_lastname']
+00:39:47.989 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+00:39:48.054 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+00:39:48.301 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='days']
+00:39:48.375 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='days']
+00:39:48.585 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='months']
+00:39:48.645 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='months']
+00:39:48.839 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='years']
+00:39:48.884 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='years']
+00:39:49.065 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='newsletter']
+00:39:49.105 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='newsletter']
+00:39:49.109 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (11a35690b810b1f3b7ffaa9dd2805de7)] -> xpath: //input[@id='newsletter']]
+00:39:49.313 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (11a35690b810b1f3b7ffaa9dd2805de7)] -> xpath: //input[@id='newsletter']]
+00:39:49.314 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='firstname']
+00:39:49.363 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='firstname']
+00:39:49.592 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='lastname']
+00:39:49.629 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='lastname']
+00:39:49.792 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='company']
+00:39:49.829 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='company']
+00:39:49.993 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='address1']
+00:39:50.033 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='address1']
+00:39:50.229 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='address2']
+00:39:50.266 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='address2']
+00:39:50.548 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='city']
+00:39:50.598 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='city']
+00:39:50.768 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='id_state']
+00:39:50.804 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='id_state']
+00:39:50.962 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='postcode']
+00:39:50.995 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='postcode']
+00:39:51.176 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='id_country']
+00:39:51.216 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='id_country']
+00:39:51.217 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (11a35690b810b1f3b7ffaa9dd2805de7)] -> xpath: //select[@id='id_country']]
+00:39:51.367 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (11a35690b810b1f3b7ffaa9dd2805de7)] -> xpath: //select[@id='id_country']]
+00:39:51.368 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='phone_mobile']
+00:39:51.449 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='phone_mobile']
+00:39:51.683 [main] INFO  testCases.LogTest - Test Successfully Finished CreateAccountPageTest_01
+00:39:55.598 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:40:00.311 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:40:00.319 [main] INFO  testCases.LogTest - New Test Started CreateAccountPageTest_02
+00:40:00.332 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:40:03.394 [main] INFO  testCases.LogTest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[contains(text(),'Sign in')])"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '127.0.0.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56577}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fdeb1f6a8fd7aa4ac08c519f6a59d620
+*** Element info: {Using=xpath, value=(//a[contains(text(),'Sign in')])}
+00:40:03.403 [main] ERROR testCases.LogTest - Test Failed CreateAccountPageTest_02
+00:40:07.000 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:40:07.995 [main] INFO  testCases.LogTest - New Test Started contactUsPage_01
+00:40:07.999 [main] INFO  testCases.LogTest - Test Skipped contactUsPage_01
+00:40:08.020 [main] INFO  testCases.LogTest - New Test Started signInPage_01
+00:40:08.029 [main] INFO  testCases.LogTest - Test Skipped signInPage_01
+00:40:08.045 [main] INFO  testCases.LogTest - New Test Started signInPage_01
+00:40:08.048 [main] INFO  testCases.LogTest - Test Skipped signInPage_01
+00:40:08.083 [main] INFO  testCases.LogTest - New Test Started signInPage_01
+00:40:08.117 [main] INFO  testCases.LogTest - Test Skipped signInPage_01
+00:40:08.121 [main] INFO  testCases.LogTest - New Test Started Login_01
+00:40:08.124 [main] DEBUG testCases.LogTest - i am from debug
+00:40:08.124 [main] ERROR testCases.LogTest - i am from error
+00:40:08.124 [main] INFO  testCases.LogTest - i am from info
+00:40:08.125 [main] FATAL testCases.LogTest - i am from fatal===
+00:40:08.126 [main] INFO  testCases.LogTest - Test Successfully Finished Login_01
+00:40:08.131 [main] INFO  testCases.LogTest - New Test Started Login_02
+00:40:08.132 [main] DEBUG testCases.LogTest - i am from debug
+00:40:08.132 [main] ERROR testCases.LogTest - i am from error
+00:40:08.132 [main] INFO  testCases.LogTest - i am from info
+00:40:08.132 [main] FATAL testCases.LogTest - i am from fatal===
+00:40:08.134 [main] INFO  testCases.LogTest - Test Successfully Finished Login_02
+00:40:10.527 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:40:11.477 [main] INFO  testCases.LogTest - New Test Started readExcel
+00:40:11.484 [main] INFO  testCases.LogTest - Test Skipped readExcel
+00:40:14.270 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:40:15.352 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_02
+00:40:15.355 [main] INFO  testCases.LogTest - Test Skipped LogInTestCase_02
+00:40:15.367 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_01
+00:40:15.376 [main] INFO  testCases.LogTest - Test Skipped LogInTestCase_01
+00:40:15.394 [main] ERROR testCases.LogTest - Test Failed login
+00:40:15.667 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=Login_01 status=SUCCESS method=LogTest.Login_01()[pri:0, instance:testCases.LogTest@e077866] output={null}]=LogTest.Login_01()[pri:0, instance:testCases.LogTest@e077866], [TestResult name=Login_02 status=SUCCESS method=LogTest.Login_02()[pri:0, instance:testCases.LogTest@e077866] output={null}]=LogTest.Login_02()[pri:0, instance:testCases.LogTest@e077866], [TestResult name=CreateAccountPageTest_01 status=SUCCESS method=CreateAccountTestCases.CreateAccountPageTest_01()[pri:0, instance:testCases.CreateAccountTestCases@4b672daa] output={null}]=CreateAccountTestCases.CreateAccountPageTest_01()[pri:0, instance:testCases.CreateAccountTestCases@4b672daa]}]
+00:40:15.667 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=CreateAccountPageTest_02 status=FAILURE method=CreateAccountTestCases.CreateAccountPageTest_02()[pri:0, instance:testCases.CreateAccountTestCases@4b672daa] output={null}]=CreateAccountTestCases.CreateAccountPageTest_02()[pri:0, instance:testCases.CreateAccountTestCases@4b672daa], [TestResult name=login status=FAILURE method=SignInWithTestNGParameters.login(java.lang.String, java.lang.String)[pri:0, instance:testCases.SignInWithTestNGParameters@3fffff43] output={null}]=SignInWithTestNGParameters.login(java.lang.String, java.lang.String)[pri:0, instance:testCases.SignInWithTestNGParameters@3fffff43]}]
+00:40:52.681 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+00:40:57.107 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:41:06.931 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:41:07.044 [main] INFO  testCases.LogTest - New Test Started CreateAccountPageTest_01
+00:41:07.045 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:41:07.120 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:41:07.144 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (10ac6a605ebc8b35412eeb71a8f14e5a)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:41:10.550 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (10ac6a605ebc8b35412eeb71a8f14e5a)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:41:10.551 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@name='email_create']
+00:41:10.646 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@name='email_create']
+00:41:11.134 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitCreate']
+00:41:11.182 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitCreate']
+00:41:11.183 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (10ac6a605ebc8b35412eeb71a8f14e5a)] -> xpath: //button[@id='SubmitCreate']]
+00:41:11.363 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (10ac6a605ebc8b35412eeb71a8f14e5a)] -> xpath: //button[@id='SubmitCreate']]
+00:41:11.367 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='id_gender2']
+00:41:13.642 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='id_gender2']
+00:41:13.643 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (10ac6a605ebc8b35412eeb71a8f14e5a)] -> xpath: //input[@id='id_gender2']]
+00:41:13.919 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (10ac6a605ebc8b35412eeb71a8f14e5a)] -> xpath: //input[@id='id_gender2']]
+00:41:13.923 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='customer_firstname']
+00:41:13.982 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='customer_firstname']
+00:41:14.446 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='customer_lastname']
+00:41:14.507 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='customer_lastname']
+00:41:14.700 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+00:41:14.746 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+00:41:14.917 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='days']
+00:41:14.952 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='days']
+00:41:15.103 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='months']
+00:41:15.145 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='months']
+00:41:15.302 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='years']
+00:41:15.334 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='years']
+00:41:15.477 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='newsletter']
+00:41:15.515 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='newsletter']
+00:41:15.519 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (10ac6a605ebc8b35412eeb71a8f14e5a)] -> xpath: //input[@id='newsletter']]
+00:41:15.670 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (10ac6a605ebc8b35412eeb71a8f14e5a)] -> xpath: //input[@id='newsletter']]
+00:41:15.670 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='firstname']
+00:41:15.717 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='firstname']
+00:41:15.884 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='lastname']
+00:41:15.920 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='lastname']
+00:41:16.073 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='company']
+00:41:16.105 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='company']
+00:41:16.251 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='address1']
+00:41:16.287 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='address1']
+00:41:16.466 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='address2']
+00:41:16.504 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='address2']
+00:41:16.695 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='city']
+00:41:16.747 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='city']
+00:41:16.926 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='id_state']
+00:41:16.969 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='id_state']
+00:41:17.127 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='postcode']
+00:41:17.158 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='postcode']
+00:41:17.328 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='id_country']
+00:41:17.369 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='id_country']
+00:41:17.369 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (10ac6a605ebc8b35412eeb71a8f14e5a)] -> xpath: //select[@id='id_country']]
+00:41:17.510 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (10ac6a605ebc8b35412eeb71a8f14e5a)] -> xpath: //select[@id='id_country']]
+00:41:17.510 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='phone_mobile']
+00:41:17.561 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='phone_mobile']
+00:41:17.751 [main] INFO  testCases.LogTest - Test Successfully Finished CreateAccountPageTest_01
+00:41:21.811 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:41:33.414 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:41:33.420 [main] INFO  testCases.LogTest - New Test Started CreateAccountPageTest_02
+00:41:33.424 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:41:33.507 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:41:33.507 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (85503fc4de93a1eb83f769511166b732)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:41:36.579 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (85503fc4de93a1eb83f769511166b732)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:41:36.581 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@name='email_create']
+00:41:36.698 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@name='email_create']
+00:41:36.990 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitCreate']
+00:41:37.047 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitCreate']
+00:41:37.048 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (85503fc4de93a1eb83f769511166b732)] -> xpath: //button[@id='SubmitCreate']]
+00:41:37.236 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (85503fc4de93a1eb83f769511166b732)] -> xpath: //button[@id='SubmitCreate']]
+00:41:37.302 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='id_gender2']
+00:41:38.858 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='id_gender2']
+00:41:38.860 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (85503fc4de93a1eb83f769511166b732)] -> xpath: //input[@id='id_gender2']]
+00:41:39.114 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (85503fc4de93a1eb83f769511166b732)] -> xpath: //input[@id='id_gender2']]
+00:41:39.122 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='customer_firstname']
+00:41:39.206 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='customer_firstname']
+00:41:39.704 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='customer_lastname']
+00:41:39.753 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='customer_lastname']
+00:41:40.024 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+00:41:40.068 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+00:41:40.289 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='days']
+00:41:40.350 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='days']
+00:41:40.523 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='months']
+00:41:40.574 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='months']
+00:41:40.783 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='years']
+00:41:40.818 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='years']
+00:41:40.997 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='newsletter']
+00:41:41.065 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='newsletter']
+00:41:41.068 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (85503fc4de93a1eb83f769511166b732)] -> xpath: //input[@id='newsletter']]
+00:41:41.236 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (85503fc4de93a1eb83f769511166b732)] -> xpath: //input[@id='newsletter']]
+00:41:41.236 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='firstname']
+00:41:41.270 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='firstname']
+00:41:41.484 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='lastname']
+00:41:41.518 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='lastname']
+00:41:41.673 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='company']
+00:41:41.716 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='company']
+00:41:41.869 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='address1']
+00:41:41.905 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='address1']
+00:41:42.096 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='address2']
+00:41:42.139 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='address2']
+00:41:42.324 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='city']
+00:41:42.370 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='city']
+00:41:42.523 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='id_state']
+00:41:42.552 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='id_state']
+00:41:42.681 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='postcode']
+00:41:42.708 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='postcode']
+00:41:42.855 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //select[@id='id_country']
+00:41:42.885 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //select[@id='id_country']
+00:41:42.885 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (85503fc4de93a1eb83f769511166b732)] -> xpath: //select[@id='id_country']]
+00:41:43.006 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (85503fc4de93a1eb83f769511166b732)] -> xpath: //select[@id='id_country']]
+00:41:43.008 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='phone_mobile']
+00:41:43.069 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='phone_mobile']
+00:41:43.255 [main] INFO  testCases.LogTest - Test Successfully Finished CreateAccountPageTest_02
+00:41:46.655 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:41:54.166 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:41:54.178 [main] INFO  testCases.LogTest - New Test Started contactUsPage_01
+00:41:54.181 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+00:41:54.276 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+00:41:54.277 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a0a78d55724242fc4fce6fa8b750a948)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+00:41:57.486 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (a0a78d55724242fc4fce6fa8b750a948)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+00:42:00.494 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+00:42:00.553 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+00:42:00.618 [main] INFO  testCases.LogTest - Test Successfully Finished contactUsPage_01
+00:42:04.124 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:42:10.968 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:42:10.973 [main] INFO  testCases.LogTest - New Test Started signInPage_01
+00:42:10.973 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:42:11.030 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:42:11.032 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (2386ec4a90212a45b2ea575e54a9f810)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:42:15.919 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (2386ec4a90212a45b2ea575e54a9f810)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:42:18.919 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:42:18.986 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:42:19.050 [main] INFO  testCases.LogTest - Test Successfully Finished signInPage_01
+00:42:22.303 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:42:29.033 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:42:29.055 [main] INFO  testCases.LogTest - New Test Started signInPage_01
+00:42:29.058 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:42:29.184 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:42:29.185 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (8f85a0dfa3fc1bdebb3e7b96ce14cb35)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:42:33.487 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (8f85a0dfa3fc1bdebb3e7b96ce14cb35)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:42:36.490 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:42:36.557 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:42:36.652 [main] INFO  testCases.LogTest - Test Successfully Finished signInPage_01
+00:42:40.172 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:42:52.676 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:42:52.681 [main] INFO  testCases.LogTest - New Test Started signInPage_01
+00:42:52.682 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:42:52.806 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:42:52.807 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (41b56f1d35955fad4a494a235f825d3b)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:42:57.747 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (41b56f1d35955fad4a494a235f825d3b)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:43:00.751 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:43:00.806 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:43:00.876 [main] INFO  testCases.LogTest - Test Successfully Finished signInPage_01
+00:43:01.896 [main] INFO  testCases.LogTest - New Test Started Login_01
+00:43:01.897 [main] DEBUG testCases.LogTest - i am from debug
+00:43:01.897 [main] ERROR testCases.LogTest - i am from error
+00:43:01.897 [main] INFO  testCases.LogTest - i am from info
+00:43:01.897 [main] FATAL testCases.LogTest - i am from fatal===
+00:43:01.899 [main] INFO  testCases.LogTest - Test Successfully Finished Login_01
+00:43:01.901 [main] INFO  testCases.LogTest - New Test Started Login_02
+00:43:01.902 [main] DEBUG testCases.LogTest - i am from debug
+00:43:01.906 [main] ERROR testCases.LogTest - i am from error
+00:43:01.907 [main] INFO  testCases.LogTest - i am from info
+00:43:01.907 [main] FATAL testCases.LogTest - i am from fatal===
+00:43:01.909 [main] INFO  testCases.LogTest - Test Successfully Finished Login_02
+00:43:04.389 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:43:14.185 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:43:14.195 [main] INFO  testCases.LogTest - New Test Started readExcel
+00:43:14.235 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:43:14.379 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:43:14.380 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (039c1ec30f2148f543bb66c59055e08f)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:43:16.977 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (039c1ec30f2148f543bb66c59055e08f)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:43:16.978 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+00:43:17.053 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+00:43:17.352 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+00:43:17.410 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+00:43:22.639 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+00:43:22.692 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+00:43:22.696 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (039c1ec30f2148f543bb66c59055e08f)] -> xpath: //button[@id='SubmitLogin']]
+00:43:26.177 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (039c1ec30f2148f543bb66c59055e08f)] -> xpath: //button[@id='SubmitLogin']]
+00:43:31.182 [main] INFO  testCases.LogTest - Test Successfully Finished readExcel
+00:43:34.614 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:43:42.892 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:43:42.896 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_02
+00:43:42.905 [main] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+00:43:42.912 [main] INFO  testCases.LogTest - Row count of sheet is 3
+00:43:42.912 [main] INFO  testCases.LogTest - Username is supriya040795@gmail.com
+00:43:42.912 [main] INFO  testCases.LogTest - Password is 123456
+00:43:42.915 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:43:43.085 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:43:43.086 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a53933ba22529d37cc7622c4767e224e)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:43:47.481 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (a53933ba22529d37cc7622c4767e224e)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:43:47.483 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+00:43:47.606 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='email']
+00:43:47.957 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+00:43:48.020 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+00:43:53.275 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+00:43:53.324 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //button[@id='SubmitLogin']
+00:43:53.327 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a53933ba22529d37cc7622c4767e224e)] -> xpath: //button[@id='SubmitLogin']]
+00:43:56.760 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (a53933ba22529d37cc7622c4767e224e)] -> xpath: //button[@id='SubmitLogin']]
+00:44:01.761 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[text()='My account']
+00:44:04.836 [main] INFO  testCases.LogTest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='My account']"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '192.168.43.145', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56836}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a53933ba22529d37cc7622c4767e224e
+*** Element info: {Using=xpath, value=//h1[text()='My account']}
+00:44:04.839 [main] ERROR testCases.LogTest - Logged In Failed 
+00:44:04.847 [main] ERROR testCases.LogTest - Test Failed LogInTestCase_02
+00:44:05.715 [main] INFO  testCases.LogTest - New Test Started LogInTestCase_01
+00:44:05.718 [main] INFO  testCases.LogTest - Test Skipped LogInTestCase_01
+00:44:05.724 [main] ERROR testCases.LogTest - Test Failed login
+00:44:06.047 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=signInPage_01 status=SUCCESS method=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@ea9b7c6] output={null}]=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@ea9b7c6], [TestResult name=signInPage_01 status=SUCCESS method=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@ea9b7c6] output={null}]=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@ea9b7c6], [TestResult name=Login_01 status=SUCCESS method=LogTest.Login_01()[pri:0, instance:testCases.LogTest@e077866] output={null}]=LogTest.Login_01()[pri:0, instance:testCases.LogTest@e077866], [TestResult name=contactUsPage_01 status=SUCCESS method=HomePageTest.contactUsPage_01()[pri:0, instance:testCases.HomePageTest@ea9b7c6] output={null}]=HomePageTest.contactUsPage_01()[pri:0, instance:testCases.HomePageTest@ea9b7c6], [TestResult name=CreateAccountPageTest_01 status=SUCCESS method=CreateAccountTestCases.CreateAccountPageTest_01()[pri:0, instance:testCases.CreateAccountTestCases@4b672daa] output={null}]=CreateAccountTestCases.CreateAccountPageTest_01()[pri:0, instance:testCases.CreateAccountTestCases@4b672daa], [TestResult name=signInPage_01 status=SUCCESS method=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@ea9b7c6] output={null}]=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@ea9b7c6], [TestResult name=Login_02 status=SUCCESS method=LogTest.Login_02()[pri:0, instance:testCases.LogTest@e077866] output={null}]=LogTest.Login_02()[pri:0, instance:testCases.LogTest@e077866], [TestResult name=CreateAccountPageTest_02 status=SUCCESS method=CreateAccountTestCases.CreateAccountPageTest_02()[pri:0, instance:testCases.CreateAccountTestCases@4b672daa] output={null}]=CreateAccountTestCases.CreateAccountPageTest_02()[pri:0, instance:testCases.CreateAccountTestCases@4b672daa], [TestResult name=readExcel status=SUCCESS method=SignInWithExcelData.readExcel()[pri:0, instance:testCases.SignInWithExcelData@ed3068a] output={null}]=SignInWithExcelData.readExcel()[pri:0, instance:testCases.SignInWithExcelData@ed3068a]}]
+00:44:06.049 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=login status=FAILURE method=SignInWithTestNGParameters.login(java.lang.String, java.lang.String)[pri:0, instance:testCases.SignInWithTestNGParameters@3fffff43] output={null}]=SignInWithTestNGParameters.login(java.lang.String, java.lang.String)[pri:0, instance:testCases.SignInWithTestNGParameters@3fffff43], [TestResult name=LogInTestCase_02 status=FAILURE method=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@7c2b6087] output={null}]=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@7c2b6087]}]
+01:00:09.676 [TestNG-tests-1] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+01:00:09.677 [TestNG-tests-2] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+01:00:15.113 [TestNG-tests-1] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+01:00:15.113 [TestNG-tests-2] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+01:00:25.144 [TestNG-tests-2] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+01:00:25.277 [TestNG-tests-2] INFO  testCases.LogTest - New Test Started contactUsPage_01
+01:00:25.277 [TestNG-tests-2] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+01:00:27.743 [TestNG-tests-1] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+01:00:27.754 [TestNG-tests-1] INFO  testCases.LogTest - New Test Started LogInTestCase_02
+01:00:27.769 [TestNG-tests-1] INFO  testCases.LogTest - fetc the usrename and password from excelsheel
+01:00:27.803 [TestNG-tests-1] INFO  testCases.LogTest - Row count of sheet is 3
+01:00:27.803 [TestNG-tests-1] INFO  testCases.LogTest - Username is supriya040795@gmail.com
+01:00:27.804 [TestNG-tests-1] INFO  testCases.LogTest - Password is 123456
+01:00:27.804 [TestNG-tests-1] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+01:00:27.839 [TestNG-tests-2] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+01:00:27.858 [TestNG-tests-2] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a0bf8520344899c7a425ccf0d06ab8ba)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+01:00:27.915 [TestNG-tests-1] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+01:00:27.917 [TestNG-tests-1] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a0bf8520344899c7a425ccf0d06ab8ba)] -> xpath: (//a[contains(text(),'Sign in')])]
+01:00:30.140 [TestNG-tests-2] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (a0bf8520344899c7a425ccf0d06ab8ba)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+01:00:30.185 [TestNG-tests-1] INFO  testCases.LogTest - Exception occured: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '192.168.43.145', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56938}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a0bf8520344899c7a425ccf0d06ab8ba
+01:00:30.199 [TestNG-tests-1] ERROR testCases.LogTest - Test Failed LogInTestCase_02
+01:00:31.577 [TestNG-tests-1] INFO  testCases.LogTest - New Test Started LogInTestCase_01
+01:00:31.580 [TestNG-tests-1] INFO  testCases.LogTest - Test Skipped LogInTestCase_01
+01:00:31.740 [TestNG-tests-1] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={}]
+01:00:31.741 [TestNG-tests-1] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=LogInTestCase_02 status=FAILURE method=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@42f48531] output={null}]=SignInWithExcelDataLog.LogInTestCase_02()[pri:0, instance:testCases.SignInWithExcelDataLog@42f48531]}]
+01:00:33.150 [TestNG-tests-2] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+01:00:33.155 [TestNG-tests-2] INFO  testCases.LogTest - Exception occured: org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '192.168.43.145', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: driver.version: EventFiringWebDriver
+01:00:33.162 [TestNG-tests-2] ERROR testCases.LogTest - Test Failed contactUsPage_01
+01:00:35.662 [TestNG-tests-2] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+01:00:45.875 [TestNG-tests-2] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+01:00:45.880 [TestNG-tests-2] INFO  testCases.LogTest - New Test Started signInPage_01
+01:00:45.881 [TestNG-tests-2] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+01:00:46.031 [TestNG-tests-2] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+01:00:46.049 [TestNG-tests-2] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (fbd2207fb39a3182686d58f573e186df)] -> xpath: (//a[contains(text(),'Sign in')])]
+01:00:49.320 [TestNG-tests-2] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (fbd2207fb39a3182686d58f573e186df)] -> xpath: (//a[contains(text(),'Sign in')])]
+01:00:52.322 [TestNG-tests-2] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+01:00:52.380 [TestNG-tests-2] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+01:00:52.441 [TestNG-tests-2] INFO  testCases.LogTest - Test Successfully Finished signInPage_01
+01:00:55.967 [TestNG-tests-2] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+01:01:05.467 [TestNG-tests-2] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+01:01:05.476 [TestNG-tests-2] INFO  testCases.LogTest - New Test Started signInPage_01
+01:01:05.477 [TestNG-tests-2] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+01:01:05.578 [TestNG-tests-2] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+01:01:05.579 [TestNG-tests-2] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c06565869849b8b90d279e2191841260)] -> xpath: (//a[contains(text(),'Sign in')])]
+01:01:07.975 [TestNG-tests-2] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (c06565869849b8b90d279e2191841260)] -> xpath: (//a[contains(text(),'Sign in')])]
+01:01:10.978 [TestNG-tests-2] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+01:01:11.044 [TestNG-tests-2] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+01:01:11.108 [TestNG-tests-2] INFO  testCases.LogTest - Test Successfully Finished signInPage_01
+01:01:14.362 [TestNG-tests-2] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+01:01:21.574 [TestNG-tests-2] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+01:01:21.580 [TestNG-tests-2] INFO  testCases.LogTest - New Test Started signInPage_01
+01:01:21.583 [TestNG-tests-2] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+01:01:21.635 [TestNG-tests-2] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+01:01:21.636 [TestNG-tests-2] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (030c91af9dc39d4153a6652cf3a34c84)] -> xpath: (//a[contains(text(),'Sign in')])]
+01:01:24.422 [TestNG-tests-2] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (030c91af9dc39d4153a6652cf3a34c84)] -> xpath: (//a[contains(text(),'Sign in')])]
+01:01:27.429 [TestNG-tests-2] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+01:01:27.529 [TestNG-tests-2] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+01:01:27.578 [TestNG-tests-2] INFO  testCases.LogTest - Test Successfully Finished signInPage_01
+01:01:28.358 [TestNG-tests-2] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=signInPage_01 status=SUCCESS method=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@7446d8d5] output={null}]=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@7446d8d5], [TestResult name=signInPage_01 status=SUCCESS method=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@7446d8d5] output={null}]=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@7446d8d5], [TestResult name=signInPage_01 status=SUCCESS method=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@7446d8d5] output={null}]=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@7446d8d5]}]
+01:01:28.361 [TestNG-tests-2] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=contactUsPage_01 status=FAILURE method=HomePageTest.contactUsPage_01()[pri:0, instance:testCases.HomePageTest@7446d8d5] output={null}]=HomePageTest.contactUsPage_01()[pri:0, instance:testCases.HomePageTest@7446d8d5]}]
+00:29:43.440 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:29:53.798 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:29:53.854 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+00:29:53.878 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+00:29:53.886 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (2fa3454078fc0e3acd0d58f3233109d7)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+00:29:57.047 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (2fa3454078fc0e3acd0d58f3233109d7)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+00:30:00.053 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+00:30:00.082 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+00:30:03.212 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:30:15.975 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:30:15.981 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:30:16.031 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:30:16.032 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (6cf3c681e04d28e8a5b52ce4e745e2b9)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:30:19.118 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (6cf3c681e04d28e8a5b52ce4e745e2b9)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:30:22.121 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:30:22.173 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:30:24.572 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:30:41.554 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:30:41.559 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:30:41.617 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:30:41.617 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a0e1e7e828e6614d3b2892eb1e2ac755)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:30:44.566 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (a0e1e7e828e6614d3b2892eb1e2ac755)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:30:47.577 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:30:47.609 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:30:49.854 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+00:31:00.541 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+00:31:00.547 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:31:00.585 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+00:31:00.586 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d555fd9a083ddce321ea28545c582cc6)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:31:03.937 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (d555fd9a083ddce321ea28545c582cc6)] -> xpath: (//a[contains(text(),'Sign in')])]
+00:31:06.944 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:31:06.973 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+00:31:07.768 [main] DEBUG testCases.LogTest - i am from debug
+00:31:07.768 [main] ERROR testCases.LogTest - i am from error
+00:31:07.768 [main] INFO  testCases.LogTest - i am from info
+00:31:07.771 [main] FATAL testCases.LogTest - i am from fatal===
+00:31:07.774 [main] DEBUG testCases.LogTest - i am from debug
+00:31:07.774 [main] ERROR testCases.LogTest - i am from error
+00:31:07.774 [main] INFO  testCases.LogTest - i am from info
+00:31:07.774 [main] FATAL testCases.LogTest - i am from fatal===
+02:10:24.094 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:10:32.043 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:10:32.090 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+02:10:32.116 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+02:10:32.124 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (116f701ad6c210516f4f44a3361d45ea)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+02:10:33.798 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (116f701ad6c210516f4f44a3361d45ea)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+02:10:36.814 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+02:10:36.866 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+02:10:39.395 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:10:47.093 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:10:47.098 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:10:47.144 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:10:47.144 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (2f5c4077ae71090e367585ceb4de494e)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:10:50.074 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (2f5c4077ae71090e367585ceb4de494e)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:10:53.085 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:10:53.146 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:10:55.290 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:11:04.793 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:11:04.799 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:11:04.847 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:11:04.847 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (9b47da951d1b15475f0b0ff2de8d6a6f)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:11:08.713 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (9b47da951d1b15475f0b0ff2de8d6a6f)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:11:11.726 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:11:11.785 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:11:14.057 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:11:22.781 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:11:22.786 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:11:22.813 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:11:22.814 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5b43624e3479a8a468de41b6db324b47)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:11:26.474 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (5b43624e3479a8a468de41b6db324b47)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:11:29.490 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:11:29.546 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:11:30.359 [main] DEBUG testCases.LogTest - i am from debug
+02:11:30.359 [main] ERROR testCases.LogTest - i am from error
+02:11:30.359 [main] INFO  testCases.LogTest - i am from info
+02:11:30.361 [main] FATAL testCases.LogTest - i am from fatal===
+02:11:30.363 [main] DEBUG testCases.LogTest - i am from debug
+02:11:30.363 [main] ERROR testCases.LogTest - i am from error
+02:11:30.364 [main] INFO  testCases.LogTest - i am from info
+02:11:30.364 [main] FATAL testCases.LogTest - i am from fatal===
+02:17:46.226 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:17:55.877 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:17:55.920 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+02:17:55.951 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+02:17:55.959 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (341b8b5a0b3926cfd0824274f66e8f6e)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+02:17:57.648 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (341b8b5a0b3926cfd0824274f66e8f6e)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+02:18:00.664 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+02:18:00.722 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+02:18:03.498 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:18:11.726 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:18:11.733 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:18:11.760 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:18:11.760 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (68823d95b5bb844509b641fc30166570)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:18:13.933 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (68823d95b5bb844509b641fc30166570)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:18:16.936 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:18:16.965 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:18:19.092 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:18:31.234 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:18:31.240 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:18:31.270 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:18:31.270 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5069a529e3700021860a3320e937170d)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:18:33.405 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (5069a529e3700021860a3320e937170d)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:18:36.413 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:18:36.469 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:18:38.752 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:18:47.998 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:18:48.002 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:18:48.034 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:18:48.034 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0a8e3cd2e77b79263636876c12c7a3e1)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:18:50.416 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (0a8e3cd2e77b79263636876c12c7a3e1)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:18:53.424 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:18:53.489 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:18:54.335 [main] DEBUG testCases.LogTest - i am from debug
+02:18:54.335 [main] ERROR testCases.LogTest - i am from error
+02:18:54.335 [main] INFO  testCases.LogTest - i am from info
+02:18:54.337 [main] FATAL testCases.LogTest - i am from fatal===
+02:18:54.338 [main] DEBUG testCases.LogTest - i am from debug
+02:18:54.338 [main] ERROR testCases.LogTest - i am from error
+02:18:54.338 [main] INFO  testCases.LogTest - i am from info
+02:18:54.338 [main] FATAL testCases.LogTest - i am from fatal===
+02:22:07.234 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:22:17.332 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:22:17.372 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+02:22:17.412 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+02:22:17.420 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0deec8361e9b009deca2074f8b97c974)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+02:22:19.412 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (0deec8361e9b009deca2074f8b97c974)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+02:22:22.419 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+02:22:22.473 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+02:22:24.967 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:22:33.072 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:22:33.078 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:22:33.111 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:22:33.112 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (355e60479c0a9b538ce8dfedf1654a3d)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:22:36.820 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (355e60479c0a9b538ce8dfedf1654a3d)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:22:39.827 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:22:39.866 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:22:42.185 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:22:50.112 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:22:50.117 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:22:50.147 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:22:50.147 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (8fd45c8e12c13688b3676daecc92dbd7)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:22:53.624 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (8fd45c8e12c13688b3676daecc92dbd7)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:22:56.635 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:22:56.688 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:22:58.847 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+02:23:06.942 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+02:23:06.947 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:23:06.982 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+02:23:06.982 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5b210314e45b77cccc77ca30cf975ff8)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:23:09.342 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (5b210314e45b77cccc77ca30cf975ff8)] -> xpath: (//a[contains(text(),'Sign in')])]
+02:23:12.355 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:23:12.414 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+02:23:13.224 [main] DEBUG testCases.LogTest - i am from debug
+02:23:13.224 [main] ERROR testCases.LogTest - i am from error
+02:23:13.224 [main] INFO  testCases.LogTest - i am from info
+02:23:13.227 [main] FATAL testCases.LogTest - i am from fatal===
+02:23:13.228 [main] DEBUG testCases.LogTest - i am from debug
+02:23:13.228 [main] ERROR testCases.LogTest - i am from error
+02:23:13.228 [main] INFO  testCases.LogTest - i am from info
+02:23:13.229 [main] FATAL testCases.LogTest - i am from fatal===
+22:51:33.071 [main] INFO  testCases.LogTest - This is onStart Method C:\Users\Admin\eclipse-workspace\FebBatch\test-output\Suite
+22:51:37.601 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+22:51:51.118 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+22:51:51.257 [main] INFO  testCases.LogTest - New Test Started contactUsPage_01
+22:51:51.257 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+22:51:51.334 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Contact us')])[1]
+22:51:51.346 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (73bb0becebef3fd19498d90b752b0736)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+22:51:55.538 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (73bb0becebef3fd19498d90b752b0736)] -> xpath: (//a[contains(text(),'Contact us')])[1]]
+22:51:58.541 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+22:51:58.560 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+22:51:58.668 [main] INFO  testCases.LogTest - Test Successfully Finished contactUsPage_01
+22:52:01.370 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+22:52:13.197 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+22:52:13.201 [main] INFO  testCases.LogTest - New Test Started signInPage_01
+22:52:13.201 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+22:52:13.234 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+22:52:13.237 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (da0a711d6280e9d74722a4b5017a1152)] -> xpath: (//a[contains(text(),'Sign in')])]
+22:52:20.481 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (da0a711d6280e9d74722a4b5017a1152)] -> xpath: (//a[contains(text(),'Sign in')])]
+22:52:23.483 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+22:52:23.502 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+22:52:23.522 [main] INFO  testCases.LogTest - Test Successfully Finished signInPage_01
+22:52:25.802 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+22:52:38.041 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+22:52:38.047 [main] INFO  testCases.LogTest - New Test Started signInPage_01
+22:52:38.048 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+22:52:38.077 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+22:52:38.080 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (08e8137549aa7efedc1f59634b96bf61)] -> xpath: (//a[contains(text(),'Sign in')])]
+22:52:43.811 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (08e8137549aa7efedc1f59634b96bf61)] -> xpath: (//a[contains(text(),'Sign in')])]
+22:52:46.823 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+22:52:46.849 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+22:52:46.870 [main] INFO  testCases.LogTest - Test Successfully Finished signInPage_01
+22:52:49.362 [main] INFO  testCases.LogTest - Before navigating to: 'http://automationpractice.com/'
+22:53:03.843 [main] INFO  testCases.LogTest - Navigated to:'http://automationpractice.com/'
+22:53:03.848 [main] INFO  testCases.LogTest - New Test Started signInPage_01
+22:53:03.849 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: (//a[contains(text(),'Sign in')])
+22:53:03.881 [main] INFO  testCases.LogTest - Found Element By : By.xpath: (//a[contains(text(),'Sign in')])
+22:53:03.886 [main] INFO  testCases.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (51aad2669c5bb8dfe171ef94e0380ab4)] -> xpath: (//a[contains(text(),'Sign in')])]
+22:53:09.631 [main] INFO  testCases.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (51aad2669c5bb8dfe171ef94e0380ab4)] -> xpath: (//a[contains(text(),'Sign in')])]
+22:53:12.641 [main] INFO  testCases.LogTest - Trying to find Element By : By.xpath: //h1[contains(text(),'Authentication')]
+22:53:12.659 [main] INFO  testCases.LogTest - Found Element By : By.xpath: //h1[contains(text(),'Authentication')]
+22:53:12.680 [main] INFO  testCases.LogTest - Test Successfully Finished signInPage_01
+22:53:13.604 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={[TestResult name=signInPage_01 status=SUCCESS method=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@4c4d27c8] output={null}]=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@4c4d27c8], [TestResult name=contactUsPage_01 status=SUCCESS method=HomePageTest.contactUsPage_01()[pri:0, instance:testCases.HomePageTest@4c4d27c8] output={null}]=HomePageTest.contactUsPage_01()[pri:0, instance:testCases.HomePageTest@4c4d27c8], [TestResult name=signInPage_01 status=SUCCESS method=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@4c4d27c8] output={null}]=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@4c4d27c8], [TestResult name=signInPage_01 status=SUCCESS method=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@4c4d27c8] output={null}]=HomePageTest.signInPage_01()[pri:0, instance:testCases.HomePageTest@4c4d27c8]}]
+22:53:13.605 [main] INFO  testCases.LogTest - This is OnFinish Method [ResultMap map={}]
